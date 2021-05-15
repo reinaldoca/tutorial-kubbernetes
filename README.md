@@ -1101,6 +1101,3 @@ For now, digging deeper into the cluster requires logging into the relevant mach
 
 - [Kubernetes Docs][9]
 - [Kubernetes Overview][10]
-
-
-> Written by **Marcos Aranda**
